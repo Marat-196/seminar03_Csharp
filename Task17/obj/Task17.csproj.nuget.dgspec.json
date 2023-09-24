@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjumataev\\Documents\\Личное\\GeekBrains\\3 Введение в программирование C#\\Seminar 03\\Task17\\Task17.csproj": {}
+    "c:\\Users\\mjumataev\\Documents\\Личное\\GeekBrains\\3 Введение в программирование C#\\Seminar 03\\Task17\\Task17.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjumataev\\Documents\\Личное\\GeekBrains\\3 Введение в программирование C#\\Seminar 03\\Task17\\Task17.csproj": {
+    "c:\\Users\\mjumataev\\Documents\\Личное\\GeekBrains\\3 Введение в программирование C#\\Seminar 03\\Task17\\Task17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjumataev\\Documents\\Личное\\GeekBrains\\3 Введение в программирование C#\\Seminar 03\\Task17\\Task17.csproj",
+        "projectUniqueName": "c:\\Users\\mjumataev\\Documents\\Личное\\GeekBrains\\3 Введение в программирование C#\\Seminar 03\\Task17\\Task17.csproj",
         "projectName": "Task17",
-        "projectPath": "C:\\Users\\mjumataev\\Documents\\Личное\\GeekBrains\\3 Введение в программирование C#\\Seminar 03\\Task17\\Task17.csproj",
+        "projectPath": "c:\\Users\\mjumataev\\Documents\\Личное\\GeekBrains\\3 Введение в программирование C#\\Seminar 03\\Task17\\Task17.csproj",
         "packagesPath": "C:\\Users\\mjumataev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjumataev\\Documents\\Личное\\GeekBrains\\3 Введение в программирование C#\\Seminar 03\\Task17\\obj\\",
+        "outputPath": "c:\\Users\\mjumataev\\Documents\\Личное\\GeekBrains\\3 Введение в программирование C#\\Seminar 03\\Task17\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mjumataev\\AppData\\Roaming\\NuGet\\NuGet.Config"
